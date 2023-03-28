@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#colorChange{
+    background-color: orangered;
+}
+
+.header{
+    height: 13.5vh;
+}
+
+#head{
+    width: 100%;
+    height: 3vh;
+    background-color: rgb(2, 2, 54);
+}
+
+.container{
+    padding: 0;
+}
+
+#navbar{
+    background-color: rgb(2, 2, 54);
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: rgb(51, 255, 0);
+}
+
+.navbar-brand > span{
+    color: orangered;
+}
+
+.nav-link{
+    color: orangered;
+}
+
+.nav-link:hover{
+    color: rgb(51, 255, 0);
+}
+
+#search{
+    color: orangered;
+}
+
+input[type=search]{
+    background-color: rgba(0, 0, 0, 0.315);
+}
+
+#btnLight{
+    background-color: rgb(2, 2, 54);
+    color: orangered;
+    border: none;
+}
+
+#btnLight:hover{
+    color: rgb(51, 255, 0);
+}
+
+#btnDark{
+    background-color: rgb(2, 2, 54);
+    color: orangered;
+    border: none;
+}
+
+#btnDark:hover{
+    color: rgb(51, 255, 0);
+}
+
+#welcome{
+    height: 17vh;
+    padding: 0;
+}
+
+#welcomeText{
+    color:rgb(77, 75, 75);
+    font-size: 500%;
+    background-color: rgb(2, 2, 54);
+    margin: 0;
+}
+
+#span2{
+    color: orangered;
+}
+
+#centerT{
+    height: 50vh;
+    padding: 0;
+}
+
+#centerTop{
+    height: 45vh;
+    background-color: rgb(2, 2, 54);
+}
+
+.btn-group{
+    padding-top: 3.5vh;
+}
+
+.btn-top{
+    height: 33vh;
+}
+
+#centerU{
+    height: 60vh;
+    padding: 0;
+}
+
+#centerUnder{
+    height: 55vh;
+    background-color: rgb(2, 2, 54);
+}
+
+#firstRow{
+    height: 55vh;
+    background-color: rgb(2, 2, 54);
+}
+
+#firstR{
+    height: 60vh;
+    padding: 0;
+}
+
+#middleR{
+    height: 50vh;
+    padding: 0;
+}
+
+#middleRow{
+    height: 45vh;
+    background-color: rgb(2, 2, 54);
+}
+
+#lastR{
+    height: 17vh;
+    padding: 0;
+}
+
+#lastRow{
+    color:rgb(77, 75, 75);
+    font-size: 500%;
+    background-color: rgb(2, 2, 54);
+    margin: 0;
+}
+
+
+#footer{
+    height: 15vh;
+    background-color: rgb(2, 2, 54);
+}
+
+#foot{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(2, 2, 54);
+}
